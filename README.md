@@ -11,12 +11,16 @@
 Me chamo <b> Lucas Oliveira</br>.
   
 Atualmente moro em Diadema/SP-BR.<br />
-E estou me capacitando pela Escola de front end @Origamid para me tornar uma <b>Desenvolvedor Front end </b>.
+Estudo Analise e desenvolvimeno de sistemas e curso a escola de front End e web designer em @origamid pretendoi me tornar um <b>Desenvolvedor Fullstack </b>.
 </p>
 <a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas8901=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt=Lucas8901 </p>
+    
 Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 </p>
 
@@ -34,9 +38,7 @@ Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para: lucas25011989@gmail.com
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas8901=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt=Lucas8901 />
-</p>
+
 
 <p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
