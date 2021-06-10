@@ -39,7 +39,8 @@ Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8901=trues&layout=compact&theme=graywhite&title_color=268bd2" alt="Lucas8901" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 </p>
 
 
