@@ -17,6 +17,11 @@ Estudo Analise e desenvolvimeno de sistemas e curso a escola de front End e web 
 Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 </p>
 
+<p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901&show_icons=true)
+
+</p>
+
 <hr />
 
 **Meus interesses pessoais:**
@@ -39,11 +44,6 @@ Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 
 
 
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901&show_icons=true)
-
-
-</p>
 
 
 **Linguagens e ferramentas:**  
@@ -52,20 +52,10 @@ Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-
 </p>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
-
-⭐️ Baseado em [Lucas8901](https://github.com/Lucas8901)
 
 
