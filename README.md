@@ -19,10 +19,6 @@ E estou me capacitando pela Escola de front end @Origamid para me tornar uma <b>
 <p align="left" >
 Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 </p>
-p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
-
 
 <hr />
 
@@ -37,6 +33,10 @@ p>&nbsp;
   - Ler livros.
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para: lucas25011989@gmail.com
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
