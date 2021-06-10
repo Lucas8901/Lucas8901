@@ -8,13 +8,12 @@
 </p>
 
 <p align="left" >
-Me chamo <b> Lucas Oliveira</br>.
+Me chamo <b> Lucas Oliveira</br>
   
 Atualmente moro em Diadema/SP-BR.<br />
 Estudo Analise e desenvolvimeno de sistemas e curso a escola de front End e web designer em @origamid pretendoi me tornar um <b>Desenvolvedor Fullstack </b>.
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas8901=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt=Lucas8901 
-    
+  
 Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 </p>
 
