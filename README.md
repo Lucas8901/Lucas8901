@@ -12,13 +12,6 @@ Me chamo <b> Lucas Oliveira</br>.
   
 Atualmente moro em Diadema/SP-BR.<br />
 Estudo Analise e desenvolvimeno de sistemas e curso a escola de front End e web designer em @origamid pretendoi me tornar um <b>Desenvolvedor Fullstack </b>.
-</p>
-<a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas8901=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt=Lucas890
-</a>
-<p align="left" >
-
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas8901=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt=Lucas8901 
     
