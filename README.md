@@ -33,6 +33,12 @@ Nas horas livres procuro estudar muito sobre os conceitos de Front end:
 
 
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901)](https://github.com/Lucas8901/github-readme-stats)
+
+
+
 <p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901&show_icons=true)
 
