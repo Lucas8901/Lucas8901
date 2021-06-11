@@ -49,7 +49,7 @@ E estou me capacitando pela @Origamid🐺 e tambem faço analise e desenvolvimen
 </a>
 
 <a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
-  <img align="center" alt="Lucas-Linkedin" height="30" width="50" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
+  <img align="center" alt="Lucas-Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
 
 
