@@ -1,4 +1,4 @@
-# <h1 align="center">Muito Prazer !! eu sou o Lucas Oliveira <img src=https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="30"></h1>
+# <h1 align="center">Muito Prazer!! Eu sou o Lucas Oliveira <img src=https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="30"></h1>
 ## Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
@@ -10,21 +10,21 @@ Me chamo <b> Lucas Oliveira</b>.
 
 <p align="left" >
 Atualmente moro em Diadema/SP-BR.<br />
-E estou me capacitando pela @Origamid🐺 e tambem faço analise e desenvolvimento de sistema👨🏼‍🎓 <br/> para me tornar uma <b>Desenvolvedor Full-Stack </b>.
+Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimento de sistema👨🏼‍🎓 <br/> para se tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
 
-**Meus interesses pessoais:**
+**Meu perfil:**
 
 - 👩‍💻 Estou estudando front end com **Html5**, **Css**, **js** 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre os framework para melhorar ainda mais meus codigos; 
   - Estudar tecnologias Backend para se tornar um futuro desenvolvedor Fullstack 👨🏽‍💻;
-  - Ler livros;
+  - Ler livros; e-books
   - Jogar League of Legends;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para lucas25011989@gmail.com <br/>
-- ### Acompanhe minhas contribuiçoes em GitHub
+- 📫 Se quiser pode enviar um e-mail para lucas25011989@gmail.com <br/>
+- ### Acompanhe minhas contribuições em GitHub
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901&show_icons=true&theme=radical) <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8901&show_icons=true&theme=radical)](https://github.com/Lucas8901/github-readme-stats)
