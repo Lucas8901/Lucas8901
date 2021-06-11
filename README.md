@@ -57,7 +57,7 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
 
  </p> 
  
-  <h2 align="left"> Isso é tudo pessoal</h2>
+  <h2 align="left"> Isto é tudo pessoal</h2>
   <img align="left" alt="GIF" src= "https://user-images.githubusercontent.com/69019626/121718713-fb123600-cab8-11eb-801d-f123eddf291a.gif">
 
  
