@@ -40,12 +40,12 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucas8901" alt="Lucas8901" />
 <h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="50"></h2>
 
-<a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
-  <img align="center" alt="Lucas-Linkedin" height="30" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<a href="lucas25011989@gmail.com" target="_blank">
+  <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
-  <img align="center" alt="Lucas-Linkedin" height="30" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<a href="lucas25011989@gmail.com" target="_blank">
+  <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
