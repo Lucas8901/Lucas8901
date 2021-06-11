@@ -58,10 +58,10 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
   <img align="center" alt="Lucas-Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
 
- </p> <br>
+ </p> 
  
-  <h2 align="right"> Isso é tudo pessoal</h2>
-   <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121713991-cea7eb00-cab3-11eb-833a-f5c26d056a05.gif width="200"
+  <h2 align="left"> Isso é tudo pessoal</h2>
+   <img align="left" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121713991-cea7eb00-cab3-11eb-833a-f5c26d056a05.gif width="100%"
  
  
  
