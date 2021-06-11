@@ -1,4 +1,4 @@
-<h1>Prazer eu sou o Lucas Oliveira</h1> ![Mario_Hello_Big](https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="20")
+<h1>Prazer eu sou o Lucas Oliveira</h1> <img src=https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="20">
 
 ## Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
