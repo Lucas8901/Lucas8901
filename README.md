@@ -29,7 +29,7 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
 - 📫 Se quiser pode enviar um email para lucas25011989@gmail.com <br/>
 - ### Acompanhe minhas contribuiçoes em GitHub
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901&show_icons=true&theme=radical)
 )
 
 <p>&nbsp;
