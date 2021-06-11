@@ -2,20 +2,16 @@
 ## Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-
 <p align="left" >
 Me chamo <b> Lucas Oliveira</b>.
 </p>
 
 <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121686296-5df2d580-ca97-11eb-8e38-2763a32e5381.gif width="200">
 
-
 <p align="left" >
 Atualmente moro em Diadema/SP-BR.<br />
 E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento de sistema <br/> para me tornar uma <b>Desenvolvedor Full-Stack </b>.
 </p>
-
-
 
 **Meus interesses pessoais:**
 
@@ -41,12 +37,11 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucas8901" alt="Lucas8901" /> </p>
+## Conecte-se comigo ![Handshake](https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif)
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+
+
 
 
 
