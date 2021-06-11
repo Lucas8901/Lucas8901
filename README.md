@@ -16,11 +16,6 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
 
 **Meus interesses pessoais:**
 
-
-
-
-
-
 - 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
 - Trabalhando na *@kabum* como desenvolvedora Full Stack. 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
