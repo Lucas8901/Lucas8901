@@ -2,7 +2,7 @@
 ## Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 <p>
   Estou iniciando em programaçao, tenho muita vontade de aprender e me esforço a cada dia para alcançar meus objetivos e sonhos!
-  
+  angry
 
 
 </p>
