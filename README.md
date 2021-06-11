@@ -1,5 +1,5 @@
-# Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-<h2>muito prazer eu sou o Lucas Oliveira</h2>
+# Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"><br><h2>muito prazer eu sou o Lucas Oliveira</h2>
+
 
 
 
