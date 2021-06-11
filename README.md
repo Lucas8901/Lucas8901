@@ -40,18 +40,17 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucas8901" alt="Lucas8901" />
 <h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="50"></h2>
 
-<a href="lucas25011989@gmail.com" target="_blank">
-  <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://discord.com/channels/@me" target="_blank">
+  <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="lucas25011989@gmail.com" target="_blank">
-  <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://github.com/Lucas8901" target="_blank">
+  <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
   <img align="center" alt="Lucas-Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
-
 
  </p>
 
