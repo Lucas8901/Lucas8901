@@ -1,4 +1,4 @@
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+# Olá Mundo! muito prazer eu sou o Lucas Oliveira <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 
