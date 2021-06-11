@@ -29,9 +29,9 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
 - 📫 Se quiser pode enviar um email para lucas25011989@gmail.com
 
 
-<p>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901)](https://github.com/Lucas8901/github-readme-stats)
-</p>
+
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas8901=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
 </p>
