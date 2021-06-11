@@ -39,7 +39,7 @@ E estou me capacitando pela @Origamid🐺 e tambem faço analise e desenvolvimen
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucas8901" alt="Lucas8901" /> </p>
 <h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="50"></h2>
-<img src="https://www.linkedin.com/in/lucas-logistica//LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://www.linkedin.com/in/lucas-logistica/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
 
 
 
