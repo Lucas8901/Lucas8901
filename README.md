@@ -43,10 +43,8 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
   
 </p>
 
- <h2 align="right"> Isso é tudo pessoal</h2>
-   <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121713991-cea7eb00-cab3-11eb-833a-f5c26d056a05.gif width="200"
-
-<h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="50"></h2>
+<p align="left">
+<h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="70"></h2>
 
 <a href="https://discord.com/channels/@me" target="_blank">
   <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
@@ -60,8 +58,13 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
   <img align="center" alt="Lucas-Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
 
-
- </p>
+ </p> <br>
+ 
+  <h2 align="right"> Isso é tudo pessoal</h2>
+   <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121713991-cea7eb00-cab3-11eb-833a-f5c26d056a05.gif width="200"
+ 
+ 
+ 
  
  
 
