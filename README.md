@@ -5,6 +5,8 @@
 Me chamo <b> Lucas Oliveira</b>.
 </p>
 
+<img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121686296-5df2d580-ca97-11eb-8e38-2763a32e5381.gif>
+
 <p align="left" >
 Atualmente moro em Diadema/SP-BR.<br />
 E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento de sistema <br/> para me tornar uma <b>Desenvolvedor Full-Stack </b>.
@@ -14,7 +16,7 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121686296-5df2d580-ca97-11eb-8e38-2763a32e5381.gif>
+
 
 
 
