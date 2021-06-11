@@ -54,10 +54,10 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
 
  </p>
  
- <p align="right">
-  <h2> Isso é tudo pessoal</h2>
+ 
+  <h2 align="right"> Isso é tudo pessoal</h2>
    <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121686296-5df2d580-ca97-11eb-8e38-2763a32e5381.gif width="200">
-</p>
+
 
 
 
