@@ -40,9 +40,11 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   
-   <h2 align="right"> Isso é tudo pessoal</h2>
-   <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121713991-cea7eb00-cab3-11eb-833a-f5c26d056a05.gif width="200"
+  
 </p>
+
+ <h2 align="right"> Isso é tudo pessoal</h2>
+   <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121713991-cea7eb00-cab3-11eb-833a-f5c26d056a05.gif width="200"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucas8901" alt="Lucas8901" />
 <h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="50"></h2>
