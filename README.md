@@ -32,6 +32,15 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
 **Linguagens e ferramentas:**  
 
 <p align="left">
+  
+  
+  
+  
+  
+  
+  
+  ![KRokrw](https://user-images.githubusercontent.com/69019626/121712118-c3ec5680-cab1-11eb-87f9-641f30cc9be0.gif)
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
