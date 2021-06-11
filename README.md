@@ -26,9 +26,8 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
   - Ler livros;
   - Jogar League of Legends;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para lucas25011989@gmail.com
-
-
+- 📫 Se quiser pode enviar um email para lucas25011989@gmail.com <br/>
+- ### Acompanhe minhas contribuiçoes em GitHub
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901)](https://github.com/Lucas8901/github-readme-stats)
 
