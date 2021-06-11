@@ -1,5 +1,6 @@
 # Olá Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"><br> muito prazer eu sou o <b>Lucas Oliveira</b>
 
+<img src=![PC](https://user-images.githubusercontent.com/69019626/121616028-7d0e4a80-ca38-11eb-950f-358a65c2a11c.gif)
 
 
 
