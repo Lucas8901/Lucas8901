@@ -10,7 +10,7 @@ Me chamo <b> Lucas Oliveira</b>.
 
 <p align="left" >
 Atualmente moro em Diadema/SP-BR.<br />
-E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento de sistema <br/> para me tornar uma <b>Desenvolvedor Full-Stack </b>.
+E estou me capacitando pela @Origamid🐺 e tambem faço analise e desenvolvimento de sistema👨🏼‍🎓 <br/> para me tornar uma <b>Desenvolvedor Full-Stack </b>.
 </p>
 
 **Meus interesses pessoais:**
@@ -38,7 +38,8 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucas8901" alt="Lucas8901" /> </p>
-<h2> Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="40"></h2>
+<h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="50"></h2>
+
 
 
 
