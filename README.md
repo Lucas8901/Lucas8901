@@ -1,4 +1,4 @@
-# <h1 align="center">Muito Prazer eu sou o Lucas Oliveira <img src=https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="30"></h1>
+# <h1 align="center">Muito Prazer !! eu sou o Lucas Oliveira <img src=https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="30"></h1>
 ## Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/69019626/121686296-5df2d580-ca97-11eb-8e38-2763a32e5381.gif width="200">
@@ -30,7 +30,9 @@ E estou me capacitando pela @Origamid e tambem faço analise e desenvolvimento d
 - ### Acompanhe minhas contribuiçoes em GitHub
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas8901&show_icons=true&theme=radical)
-)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas8901)](https://github.com/Lucas8901/github-readme-stats)
+
+
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas8901=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
