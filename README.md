@@ -1,4 +1,4 @@
-# Olá Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"><br> muito prazer eu sou o Lucas Oliveira ![Mario_Hello_Big](https://user-images.githubusercontent.com/69019626/121616356-27866d80-ca39-11eb-8611-14a391430435.gif)
+# Olá Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"><br> ## muito prazer eu sou o Lucas Oliveira 
 
 
 
