@@ -1,8 +1,5 @@
-![KRokrw](https://user-images.githubusercontent.com/69019626/121712931-a8ce1680-cab2-11eb-9279-296e14231b69.gif)
-![KRokrw](https://user-images.githubusercontent.com/69019626/121712995-ba172300-cab2-11eb-8bcb-bb247af0e1f4.gif)
-![7447afc3eceda6425d7977bc4c45bdd2](https://user-images.githubusercontent.com/69019626/121713883-b3d57680-cab3-11eb-8050-92a4d59de51d.gif)
-![7447afc3eceda6425d7977bc4c45bdd2](https://user-images.githubusercontent.com/69019626/121713961-c8197380-cab3-11eb-86eb-9b1d9977c03d.gif)
-# <h1 align="center">Muito Prazer!! Eu sou o Lucas Oliveira <img src=https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="30"></h1>
+
+<h1 align="center">Muito Prazer!! Eu sou o Lucas Oliveira <img src=https://user-images.githubusercontent.com/69019626/121617143-bb0c6e00-ca3a-11eb-83b4-7cc7feffd65a.gif width="30"></h1>
 ## Olá, Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
