@@ -41,7 +41,7 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
 </p>
 
 <p align="left">
-<h2>🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="70"></h2>
+<h2> 🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="70"></h2>
 
 <a href="https://discord.com/channels/@me" target="_blank">
   <img align="center" alt="Lucas-Gmail"src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
