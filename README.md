@@ -11,7 +11,7 @@ Me chamo <b> Lucas Oliveira</b>.
 
 <p align="left" >
 Atualmente moro em Diadema/SP-BR.<br />
-Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimento de sistema👨🏼‍🎓 <br/> para se tornar um <b>Desenvolvedor Full-Stack </b>.
+Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimento de sistema👨🏼‍🎓 <br/> para se tornar um <b>Desenvolvedor Front-End </b>.
 </p>
 
 **Meu perfil:**
@@ -22,7 +22,7 @@ Estou me capacitando pela @Origamid🐺 e também faço análise e desenvolvimen
   - Estudar sobre os framework para melhorar ainda mais meus codigos; 
   - Estudar tecnologias Backend para se tornar um futuro desenvolvedor Fullstack 👨🏽‍💻;
   - Ler livros; e-books
-  - Jogar League of Legends;
+  
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um e-mail para lucas25011989@gmail.com <br/>
 - ### Acompanhe minhas contribuições em GitHub
